@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <network-security-config>
     <domain-config cleartextTrafficPermitted="true">
-        <!-- Allow cleartext traffic for the specified domain (replace with your server's domain) -->
+        <!--  teste git Allow cleartext traffic for the specified domain (replace with your server's domain) -->
         <domain includeSubdomains="true">192.168.254.48</domain>
     </domain-config>
 </network-security-config>
